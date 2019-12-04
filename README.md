@@ -50,7 +50,7 @@ _Note: Class activities are group but individual submissions are required for gr
    - Jesus CM
    - Bao H
    - Mustafa A
-   - Logan Pennal
+   - Logan P
    - Jackie W
    2. Pick a president and write their name below.
    - Logan P 
@@ -74,15 +74,24 @@ _Note: Class activities are group but individual submissions are required for gr
    
 3. Your small "[band of merry psychopaths](#the-band)" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course? 
    1. Below, define a Code of Ethics (aka Code of Conduct) for your organization that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have _at most 9 points_.
-   	- Government shouldn't have control over the world, but it does help protect the people. 
-	- Players must take a break for a set amount of time in order to keep using device
-	- Must meet a daily quota of excersice to keep using the device 
-	- Minimum Age 18 to use 
-	- 
+   	- All decisions to the code of conduct must be unanimous, this rule cannot be changed. 
+	- No one person will have full control over the product. 
+	- Private user data can not be sold for profit by any team member.
+	- All items in the company shall be confidential, unless otherwise noted.
+	- A team member must remove themselves from product if there is a conflict of interest. 
+	- Be respectful to other team members and company property. 
+	- Team members are responsible for ensuring the product is as safe as it can be.  Failure to ensure product safety will result in evalutation of skills. 
+	- Breaking any part of the code of conduct will be subject to evaluation which may result in immediate termination.
 
 4. **(BONUS)** Ethical codes are vulnerable to _hostile takeover_ of the adopting organization. Pick one person from your group and let them _remove 3 points_ from your Code, at their discretion, to be the most damaging overall. 
+	Rules removed-
+	-Private user data can not be sold for profit by any team member.
+	-All items in the company shall be confidential, unless otherwise noted.
+	-Breaking any part of the code of conduct will be subject to evaluation which may result in immediate termination.
    1. Below, discuss how and why the Code has been weakened.
+   	The code was immedieatly weaked because any consequence was removed from the actual code. It also lets employess profit from confidential material.  
    2. Below, discuss how, in retrospect, you should have stated the points of the Code, to make it _robust to disruption_. _Note: Beware of the [paradox of self-amendment](https://legacy.earlham.edu/~peters/writing/psaessay.htm), which, in short, **"...arises when a rule is used as the authority for its own amendment. It is sharper when the rule of change is supreme, sharper still when it is changed into a form that is inconsistent with its original form, and sharpest of all when the change purports to be irrevocable."**_
+   	In our code, we wrote a rule where all changes to the code of conduct must be unanimous and that that rule could not be changed. Rules like this make the code of conduct harder to weaken. 
 
 
 #### The Band
